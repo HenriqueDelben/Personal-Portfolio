@@ -1,0 +1,31 @@
+/* Global */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    position: absolute;
+    background-color: #080808;
+    color: #9C9C9C;
+    width: 1280px;
+    height: 700px;
+    left: 0px;
+    top: 0px;
+}
+
+header {
+    position: relative;
+    text-align: center;
+    left: 85px;
+    right: 85px;
+    
+    border: 2px;
+    background: #1B1B1B;
+    
+    border-radius: 0px 0px 8px 8px;
+    width: 1110px;
+    height: 70px;
+}
+
+
